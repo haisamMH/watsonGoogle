@@ -21,7 +21,7 @@
   "conversations": {
     "Watson": {
       "name": "Watson",
-      "url": "https://blooming-wildwood-61728.herokuapp.com/s",
+      "url": "https://obscure-taiga-78656.herokuapp.com/",
       "fulfillmentApiVersion": 2,
       "in_dialog_intents": [
         {
